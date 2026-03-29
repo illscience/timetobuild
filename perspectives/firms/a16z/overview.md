@@ -32,15 +32,6 @@ From the $15B raise: a16z believes "America wins the next 100 years of technolog
 - **Network effects and compounding moats**: Does the product get better as it scales?
 - **Founding CEO strength**: The firm was built to support founder-CEOs. They look for founders who can grow into the CEO role, not founders who will need to be replaced.
 
-## What Kills a Deal
-
-- Problem is not significant or is a "nice to have"
-- Market size relies on "if we get 1% of a huge TAM" logic
-- No clear technical or insight-driven differentiation
-- Founder cannot articulate why they are uniquely positioned to solve this
-- Founder is optimizing around the edges rather than building something fundamentally new
-- No conviction or urgency — the deck feels like a pitch, not a mission
-
 ## Fund Structure
 
 a16z operates distinct funds with different investment criteria:
@@ -48,6 +39,7 @@ a16z operates distinct funds with different investment criteria:
 - **Infrastructure**: Cloud, distributed systems, AI infrastructure, data platforms, developer tools, networking
 - **Crypto**: Blockchain protocols, DeFi, token economies, Web3 applications
 - **Bio**: Life sciences, healthcare, biotech
+- **American Dynamism**: Defense, government, public safety, transportation, housing, education — companies building for sectors critical to American strength
 - **Speedrun**: Early-stage accelerator for pre-seed and seed companies across sectors
 
 Each fund has its own evaluation lens. Use the fund-specific perspective files for detailed criteria.
