@@ -1,0 +1,8 @@
+{
+  "name": "timetobuild",
+  "description": "Review investor pitch decks from the perspective of a16z, Sequoia, and other top VC firms. Get a comparative verdict or deep-dive into a specific firm's evaluation criteria.",
+  "version": "0.1.0",
+  "author": {
+    "name": "timetobuild contributors"
+  }
+}
