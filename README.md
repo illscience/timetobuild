@@ -18,9 +18,10 @@ git clone https://github.com/illscience/timetobuild.git ~/.claude/skills/timetob
 
 ### Claude Desktop / Cowork
 
-1. Open Claude Desktop and switch to the **Cowork** tab
-2. Click **Customize** in the left sidebar
-3. Click **Upload plugin** and select the `timetobuild` directory
+1. Download the [latest release zip](https://github.com/illscience/timetobuild/archive/refs/tags/v0.1.0.zip)
+2. Open Claude Desktop and switch to the **Cowork** tab
+3. Click **Customize** in the left sidebar
+4. Click **Upload skill** and drag in the zip file
 
 ### OpenAI Codex CLI
 
