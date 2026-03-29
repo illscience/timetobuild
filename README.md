@@ -4,14 +4,37 @@ A [Claude Code](https://claude.ai/code) skill that reviews investor pitch decks 
 
 Get specific, opinionated feedback on your deck from the perspective of a16z, Sequoia, and other top firms — calibrated by stage, fund, and sector. See how the same deck lands differently depending on who's reading it.
 
-## Quick Start
+## Install
+
+### Claude Code (CLI, VS Code, JetBrains)
 
 ```bash
-# Clone into your Claude skills directory
-git clone <repo-url> ~/.claude/skills/timetobuild
+# Option 1: Install as a plugin (recommended)
+claude plugin install illscience/timetobuild
+
+# Option 2: Clone into your skills directory
+git clone https://github.com/illscience/timetobuild.git ~/.claude/skills/timetobuild
 ```
 
-Then in any Claude Code session:
+### Claude Desktop / Cowork
+
+1. Open Claude Desktop and switch to the **Cowork** tab
+2. Click **Customize** in the left sidebar
+3. Click **Upload plugin** and select the `timetobuild` directory
+
+### OpenAI Codex CLI
+
+```bash
+# Clone into your Codex skills directory
+git clone https://github.com/illscience/timetobuild.git ~/.codex/skills/timetobuild
+```
+
+### Other Tools (Cursor, Gemini CLI, Copilot, etc.)
+
+The SKILL.md format is supported by 16+ AI tools. Clone the repo into your tool's skills directory — see your tool's docs for the path.
+
+## Quick Start
+
 ```
 /timetobuild path/to/your-deck.pdf
 ```
