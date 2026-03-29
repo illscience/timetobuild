@@ -23,25 +23,12 @@ Use the Read tool to read the pitch deck file **before** loading perspective fil
 
 ## Step 3: Detect Stage (if not explicitly provided)
 
-If `--stage` was not specified, infer the stage from the deck content:
+If `--stage` was not specified, infer the stage from the deck content using a simple rule:
 
-**Seed / Pre-seed signals:**
-- No revenue or pre-revenue
-- No customers or only design partners / LOIs / waitlist
-- Product is pre-launch or in early beta
-- Ask is typically <$5M
-- Deck is vision-heavy, light on metrics
-- Team is 1-3 people
+- **Seed** = the product is **pre-launch** (not yet live with real users/customers paying for it)
+- **Series A** = the product is **post-launch** (live in market with real users or paying customers)
 
-**Series A signals:**
-- Has revenue (ARR, MRR, or equivalent)
-- Has paying customers or active deployments
-- Shows traction metrics (growth rates, retention, usage data)
-- Ask is typically $5M-$20M
-- Deck includes unit economics or financial projections grounded in actuals
-- Team has grown beyond founders
-
-**If ambiguous**, consider: does the deck lead with vision and founder story (seed), or with traction and metrics (Series A)? Default to seed if truly unclear.
+Look for evidence of launch status: revenue from the product being pitched, paying customers, live deployments, active users. Note: revenue or traction from the founder's *other* companies does not count — only the company being pitched matters.
 
 State which stage you detected and why.
 
