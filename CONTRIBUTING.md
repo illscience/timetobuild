@@ -1,12 +1,20 @@
 # Contributing to timetobuild
 
-We welcome contributions from investors, founders, and anyone who can improve the quality of pitch deck feedback.
+The best pitch feedback comes from hearing how different investors would react to the same deck. Every firm evaluates differently — different priorities, different red flags, different things that get them excited. This tool is most valuable when it represents many perspectives honestly.
+
+We welcome contributions from investors, firms, founders, and anyone who can improve the quality of feedback.
+
+## For Firms and GPs
+
+If your firm has a way of evaluating pitch decks, we'd love to include it. When a founder runs `/timetobuild`, your perspective will appear alongside every other firm's — founders see where firms agree and where they diverge. It's a way to help founders understand what *you* actually look for, at scale.
+
+You can contribute your firm's perspective from public sources, or if you prefer, write it yourself to capture the nuance that blog posts don't. See the templates below to get started.
 
 ## What You Can Contribute
 
 ### Add a New Firm
 
-1. Create a directory: `skills/review-deck/perspectives/firms/your-firm/`
+1. Create a directory: `perspectives/firms/your-firm/`
 2. Copy `_template/overview.md` and `_template/seed.md` into your directory
 3. Fill in the templates with the firm's evaluation criteria
 4. Source your content from **public information only**: the firm's website, blog posts, partner talks, podcasts, published frameworks
@@ -39,7 +47,7 @@ firms/your-firm/
 
 ### Add a GP Profile (v2)
 
-1. Create a file in `skills/review-deck/perspectives/gps/`
+1. Create a file in `perspectives/gps/`
 2. Copy `_template.md` and fill in the GP's evaluation framework
 3. GP profiles are most valuable when contributed by the GP themselves
 4. Include the `firm`, `default-fund`, and `default-stage` metadata
@@ -57,7 +65,7 @@ firms/your-firm/
 - **Cite your sources**: Include links to the original source material so others can verify and update.
 - **Be opinionated**: The value of this project is in specific, actionable feedback. Generic advice is not helpful.
 - **Be respectful**: Represent firms and GPs accurately. Don't put words in anyone's mouth.
-- **Test your changes**: Install the plugin locally and test with a sample deck to make sure the perspective produces good reviews.
+- **Test your changes**: Install the skill locally and test with a sample deck to make sure the perspective produces good reviews.
 
 ## Testing Locally
 
@@ -69,7 +77,7 @@ ln -s /path/to/timetobuild ~/.claude/skills/timetobuild
 claude --add-dir /path/to/timetobuild
 
 # Then test with a sample deck
-/review-deck path/to/deck.pdf --firm your-firm --stage seed
+/timetobuild path/to/deck.pdf --firm your-firm --stage seed
 ```
 
 ## Pull Request Process

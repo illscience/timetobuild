@@ -1,8 +1,8 @@
 # timetobuild
 
-A [Claude Code](https://claude.ai/code) plugin that reviews investor pitch decks from the perspective of top VC firms.
+A [Claude Code](https://claude.ai/code) skill that reviews investor pitch decks from the perspective of top VC firms.
 
-Get specific, opinionated feedback on your deck as if you were pitching to a16z, Sequoia, and more — calibrated by stage, fund, and sector.
+Get specific, opinionated feedback on your deck from the perspective of a16z, Sequoia, and other top firms — calibrated by stage, fund, and sector. See how the same deck lands differently depending on who's reading it.
 
 ## Quick Start
 
@@ -52,22 +52,24 @@ Then in any Claude Code session:
 
 ## Available Perspectives
 
-### v1 (Now)
+### Currently Available
 
-| Firm | Fund | Stages | Source |
-|------|------|--------|--------|
+| Firm | Fund | Stages | Sources |
+|------|------|--------|---------|
 | a16z | apps | seed, series-a | Partner evaluation framework |
 | Sequoia | — | seed, series-a | [Writing a Business Plan](https://sequoiacap.com/article/writing-a-business-plan/) |
 
-### Planned (Contributions Welcome)
+### Want Your Firm Here?
 
-- a16z infra, crypto funds
-- YC
-- Benchmark
-- Founders Fund
-- Lightspeed, Greylock, and more
-- Pre-seed, Series B, and growth stages
-- GP-specific profiles
+Every firm evaluates decks differently — that's what makes this tool valuable. The more perspectives, the better the feedback founders get.
+
+We'd love contributions from any firm willing to share how they think. See [CONTRIBUTING.md](CONTRIBUTING.md) to add your perspective.
+
+On the roadmap:
+- More firms (YC, Benchmark, Founders Fund, Lightspeed, Greylock, and others)
+- More stages (pre-seed, Series B, growth)
+- More funds/sectors (infra, crypto, bio)
+- GP-specific profiles — individual partner evaluation lenses
 
 ## What You Get
 
@@ -82,12 +84,12 @@ Every review includes:
 
 ## Contributing
 
-We welcome contributions from investors, firms, and founders. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+Founders get the most value when they can see how their deck lands differently across firms. Every new perspective makes the tool more useful for everyone.
 
-The most impactful contributions:
-- **Add your firm's perspective** — help founders understand what you actually look for
-- **Add a GP profile** — share your personal evaluation framework
-- **Improve existing perspectives** — make feedback more specific and actionable
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details. The highest-impact contributions:
+- **Add your firm's perspective** — founders will see your criteria alongside every other firm's, every time they run a review
+- **Add a GP profile** — share how you personally evaluate decks, in your own voice
+- **Improve existing perspectives** — make feedback more specific, more accurate, more actionable
 
 ## License
 
