@@ -61,7 +61,6 @@ At Series A, the bar shifts from founder potential to founder + proof. The quest
 ## a16z-Specific Series A Priorities
 
 - **Platform potential**: At Series A, a16z wants to see the path from product to platform. Can this become an ecosystem?
-- **Leverage the a16z machine**: Founders should show awareness of how a16z's operational support accelerates growth — GTM help, talent network, enterprise partnerships
 - **Category creation**: Is this company defining a new category, or competing in an established one? a16z prefers category creators.
 - **AI thesis alignment**: How does this company fit the "AI is eating software" thesis? Is AI a core differentiator or a feature?
 
