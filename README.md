@@ -9,10 +9,13 @@ Get specific, opinionated feedback on your deck from the perspective of a16z, Se
 ### Claude Code (CLI, VS Code, JetBrains)
 
 ```bash
-# Option 1: Install as a plugin (recommended)
+# Option 1: One-line install
+npx skills add illscience/timetobuild
+
+# Option 2: Install as a plugin
 claude plugin install illscience/timetobuild
 
-# Option 2: Clone into your skills directory
+# Option 3: Clone into your skills directory
 git clone https://github.com/illscience/timetobuild.git ~/.claude/skills/timetobuild
 ```
 
