@@ -5,6 +5,7 @@ Sources:
 - [It's Time to Build](https://a16z.com/its-time-to-build/) (2020)
 - [Why Has Andreessen Horowitz Raised $2.7B in 3 Years?](https://a16z.com/why-has-andreessen-horowitz-raised-2-7b-in-3-years/) (2012)
 - [Why Did We Raise $15B?](https://a16z.com/why-did-we-raise-15b/) (2025)
+- [a16z Speedrun Program Page](https://a16z.com/speedrun/)
 
 ## Core Thesis
 
@@ -35,11 +36,12 @@ From the $15B raise: a16z believes "America wins the next 100 years of technolog
 ## Fund Structure
 
 a16z operates distinct funds with different investment criteria:
+
 - **Apps**: Consumer and enterprise applications, AI applications, creator tools, social, gaming, fintech
 - **Infrastructure**: Cloud, distributed systems, AI infrastructure, data platforms, developer tools, networking
 - **Crypto**: Blockchain protocols, DeFi, token economies, Web3 applications
 - **Bio**: Life sciences, healthcare, biotech
 - **American Dynamism**: Defense, government, public safety, transportation, housing, education — companies building for sectors critical to American strength
-- **Speedrun**: Early-stage accelerator for pre-seed and seed companies across sectors
+- **Speedrun**: Early-stage accelerator for pre-seed and seed companies. Invests across sectors with a cohort-based model, focus on supporting new teams
 
 Each fund has its own evaluation lens. Use the fund-specific perspective files for detailed criteria.
