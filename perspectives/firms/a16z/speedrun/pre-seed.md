@@ -25,7 +25,7 @@ At Speedrun, the founder evaluation is the primary investment thesis. The bet is
 
 ### Signals of Founder Exceptionalism
 
-> "What is the most impressive thing that you have done before?" - interview question
+> "What is the most impressive thing that you have done before?"
 
 Speedrun looks for outlier founders who have demonstrated success at the highest levels before. This can be expressed in any dimension both personal and professional - winning elite academic awards, a popular Youtube channel, being top-ranked in the world at an activity like Chess or Pokemon, founding / exiting a start-up, shipping a notable product or side project, conducting frontier research, etc. Speedrun also prefers having at least 1 technical founder so that the company can build and ship a v1 product as-is
 
@@ -33,7 +33,7 @@ Speedrun looks for outlier founders who have demonstrated success at the highest
 
 ### Founder-Market Fit
 
-> "What gives you an unfair advantage in pursuing this idea?" - interview question
+> "What gives you an unfair advantage in pursuing this idea?"
 
 Speedrun looks for the "earned secret" — something the founder has seen, lived, or learned that gives them an unfair advantage in pursuing their start-up idea. Obvious "red ocean" ideas that many teams are pursuing are not disqualifiers, but raises the bar for how the team will break out. The question is: what's the non-obvious thing you know that very few other people see?
 
@@ -41,17 +41,17 @@ Speedrun looks for the "earned secret" — something the founder has seen, lived
 
 ### Company Building Orientation
 
-> "What are the founding team's strengths and weaknesses? What is your plan to address these gaps?" - interview question
+> "What are the founding team's strengths and weaknesses? What is your plan to address these gaps?"
 
-Speedrun looks for founders who aspire to build a generational company, not just a 1-off product or service. This means being intentional about team construction and having a long-term vision for how the company might evolve.
+Speedrun looks for founders who aspire to build a generational company, not just a 1-off product or service. This means being intentional about team construction and having a long-term vision for how the company might evolve. This also means thinking about distribution and product equally - how will you obtain your first 100 users, your next 100,000 users, and then your next 1M users?
 
-**In the deck, look for:** Awareness of hiring needs and longer-term company building roadmap. A named answer to "who are the first three hires?" that reflects real thought. Co-founder roles that are clearly delineated and complementary — is there a technical cofounder to build the product? is there a commercial cofounder if the business has a sales element etc.
+**In the deck, look for:** Awareness of hiring needs and longer-term company building roadmap. A named answer to "who are the first three hires?" that reflects real thought. Co-founder roles that are clearly delineated and complementary — is there a technical cofounder to build the product? is there a commercial cofounder if the business has a sales element etc? A thoughtful plan around GTM strategy and distribution
 
 ## Traction Assessment (Primary Weight)
 
 ### Early Signals of Product Market Fit
 
-> "What evidence have you gathered that people want what you're building?" - interview question
+> "What evidence have you gathered that people want what you're building?"
 
 Speedrun looks for founders who have already started building and shipping product to potential customers to validate their ideas. The absolute quantum of traction is less important than the rate of growth. Quality of traction also matters more than sheer quantity - below is a high-level hierarchy:
 
@@ -67,25 +67,25 @@ Speedrun looks for founders who have already started building and shipping produ
 
 ### High Velocity (Distinct from Traction)
 
-> "What have you learned since shipping your product?" - interview question
+> "What have you learned since shipping your product?"
 
 Speedrun biases toward high velocity founders who seek to build, ship, and learn quickly. Velocity and traction are not the same thing. Velocity is the cadence of shipping and learning - what have you accomplished in the last week? in the last few days since we met?
 
-**In the deck, look for:** How much work has been accomplished since the decision was made to work on this? Days-to-prototype, weeks-to-first paid pilot etc. Evidence of iteration cycles already completed. What has the team accomplished even during the application cycle?
+**In the deck, look for:** How much work has been accomplished since the decision was made to work on this? Days-to-prototype, weeks-to-first paid pilot etc. Evidence of iteration cycles already completed. What has the team accomplished even during the application cycle? Has progress been made along product, distribution, or customers?
 
 ## Market Assessment (Secondary Weight)
 
 ### Huge if it Works
 
-> "If everything goes right, what does the company look like in 5 years?" - interview question
+> "If everything goes right, what does the company look like in 5 years?"
 
-Speedrun aspires to back ambitious founders who are setting out to build a category-defining company. What is the long-term market opportunity that you aspire to address? And what is the near-term wedge to get into market (if applicable).
+Speedrun aspires to back ambitious founders who are setting out to build a category-defining company. What is the long-term market opportunity that you aspire to address? And what is the near-term wedge to get into market? Do you have a proprietary distribution insight that allows you to get off to a fast start with your wedge?
 
-**In the deck, look for:** Large market opportunity with a believable roadmap to achieving category domination. Potential to build a monopoly business or winner-take-all business at scale. Theory of defensibility - network effects, proprietary data loops, etc.
+**In the deck, look for:** Large market opportunity with a believable roadmap to achieving category domination. Is there a distribution insight or a proprietary distribution channel that allows them to get off to a fast start? Potential to build a monopoly business or winner-take-all business at scale. Theory of defensibility - network effects, proprietary data loops, etc.
 
 ### Idea Maze Depth
 
-> "Why will you succeed vs all the other teams in this market?" - interview question
+> "Why will you succeed vs all the other teams in this market?"
 
 Speedrun wants founders who have gone deep down the idea maze and thought deeply about the problem space and their approach. Who are all the other players, what was tried before and why it failed, and why this team's specific approach wins where others will stall. A Harvey Ball comparison chart ("we have more green checkmarks") is not a competitive analysis
 
@@ -123,6 +123,11 @@ Speedrun wants founders who have gone deep down the idea maze and thought deeply
 - Prioritize quality of engagement over quantity: excited customers who introduce you to others > large passive waitlist
 - Show what has been accomplished even during the application cycle — velocity is being evaluated in real time
 
+### GTM Slide
+- What is the strategy to obtain your first 100 users, your next 100,000 users, your next 1M users?
+- Does the team have a distribution insight or access to a proprietary distribution channel to help solve the cold start problem?
+- Show how the current distribution plan has worked thus far, and how you plan to scale from here
+
 ### Market Slide
 - Secondary weight — don't over-index here at the expense of team and traction
 - "Huge if it works" framing: what does the company look like in 5 years if everything goes right?
@@ -141,11 +146,11 @@ Speedrun wants founders who have gone deep down the idea maze and thought deeply
 
 Speedrun has invested heavily in AI-native companies in recent cohorts. When evaluating AI applications:
 
-- **Not a wrapper**: What does this do that a smart engineer couldn't replicate in a weekend with a Claude/GPT API key?
-- **Data or distribution edge**: Is there a proprietary data flywheel, a novel distribution channel, or a workflow integration that creates stickiness?
-- **Model risk awareness**: Founders should have a view on what happens as frontier models improve. Does better base intelligence help or hurt this product?
-- **Speed to value**: AI products live and die by first-session value. Does the deck (or demo) show what a user experiences in the first 5 minutes?
-- **Technical capability still matters**: Even in an AI-assisted building environment, Speedrun values technical depth in the founding team.
+- **Rides the model wave**: How will the next major frontier model release affect your product? Does better base intelligence improve its value or subsume it?
+- **Distribution edge**: How will you obtain your first 100 users, your next 100,000 users, and the next 1M users? Do you have a proprietary distribution insight?
+- **Theory of defensibility**: Is there a proprietary data flywheel, network effects, or a workflow integration that creates stickiness?
+- **Speed to value**: AI products live and die by first-session value. Does the deck (or demo) deliver value / a compelling experiences in the first 5 minutes?
+- **Technical capability**: Even in an AI-assisted building environment, Speedrun still values technical depth in the founding team.
 
 ---
 
